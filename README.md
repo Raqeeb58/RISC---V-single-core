@@ -19,3 +19,5 @@ Usage:
 Use a Verilog simulator (e.g., ModelSim, VCS) to compile and run the testbench (top_tb.v).
 
 Modify the instruction_memory.v to add or modify instructions.
+![image](https://github.com/user-attachments/assets/ded331d2-af6f-4fae-b557-aa2e9eec5e92)
+
